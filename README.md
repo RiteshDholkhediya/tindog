@@ -1,5 +1,7 @@
 # tindog
 This website is made using - > html ,CSS , bootstrap.
+You can checkout website at link : https://riteshdholkhediya.github.io/tindog/
+
 ![Screenshot (17)](https://user-images.githubusercontent.com/60638503/99886967-926f8300-2c66-11eb-95aa-276b78091c2b.png)
 ![Screenshot (18)](https://user-images.githubusercontent.com/60638503/99886983-a87d4380-2c66-11eb-8e65-bf63701a7b02.png)
 ![Screenshot (19)](https://user-images.githubusercontent.com/60638503/99886989-ae732480-2c66-11eb-8135-f4fd5c509609.png)
